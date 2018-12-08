@@ -7,7 +7,7 @@ The code for pong_policy_gradient.py is taken from Andrej Karpathy pong from pix
 
 The tf_pg_pong.py is implementation of pong_policy_gradient.py in tensorflow.
 
-The ddpg.py is implemention of deep deterministic policy gradient.
+The ddpg.py is implementation of deep deterministic policy gradient.
 
 If anyone has any problem regarding the code feel free to email me at shashankprice76@gmail.com
 

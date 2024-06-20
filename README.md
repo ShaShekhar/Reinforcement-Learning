@@ -1,10 +1,10 @@
 The CTB.py file contains algorithm for an Q-Learning agent to learn to catch the ball.
-The GUI interface is written using pygame gaming environment.
+The GUI interface is written using the Pygame gaming environment.
 
-The ppo.py is implementation of proximal policy gradient.
+The ppo.py file is implementation of proximal policy gradient.
 
-The code for pong_policy_gradient.py is taken from Andrej Karpathy pong from pixel blog.
+The code for pong_policy_gradient.py is taken from Andrej Karpathy's 'Pong from Pixels' blog.
 
-The tf_pg_pong.py is implementation of pong_policy_gradient.py in tensorflow.
+The tf_pg_pong.py file is an implementation of pong_policy_gradient.py in Tensorflow.
 
-The ddpg.py is implementation of deep deterministic policy gradient.
+The ddpg.py file is implementation of deep deterministic policy gradient.
